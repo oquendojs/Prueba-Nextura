@@ -8,7 +8,8 @@ Para ejecutar la aplicación, descargar, instalar y ejecutar el software xampp d
 
 descargar y mover la carpeta "prueba" del repositorio a la ruta C:\xampp\htdocs, habilitar los servicios de Apache y MySQL dentro del software
 
-descargar el archivo 
+descargar el archivo "prueba_tecnica_dev.sql"
 
+Acceder a este link [[localhost/p](http://localhost/phpmyadmin/)]e importar el archivo anterior
 
-Acceder a este link [[localhost/p](http://localhost/phpmyadmin/)](http://localhost/phpmyadmin/index.php?route=/server/import)
+Acceder a este link [http://localhost/prueba/]
