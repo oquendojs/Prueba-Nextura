@@ -6,10 +6,12 @@ Es un trabajo Incompleto, en desarrollo, Falta Trabajar en el fontend, entre otr
 
 Para ejecutar la aplicación, descargar, instalar y ejecutar el software xampp del repositorio 
 
-descargar y mover la carpeta "prueba" del repositorio a la ruta C:\xampp\htdocs, habilitar los servicios de Apache y MySQL dentro del software
+Habilitar los servicios de Apache y MySQL dentro del software
 
-descargar el archivo "prueba_tecnica_dev.sql"
+Descargar y mover la carpeta "prueba" del repositorio a la ruta C:\xampp\htdocs
 
-Acceder a este link [[localhost/p](http://localhost/phpmyadmin/)]e importar el archivo anterior
+Descargar el archivo "prueba_tecnica_dev.sql"
 
-Acceder a este link [http://localhost/prueba/]
+Acceder al siguiente link [http://localhost/phpmyadmin/index.php?route=/server/import](http://localhost/phpmyadmin/index.php?route=/server/import) e importar el archivo anterior 
+
+Acceder al siguiente link [[http://localhost/prueba/]](http://localhost/prueba/) e interactuar con la aplicación
